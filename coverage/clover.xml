@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1628255141185" clover="3.2.0">
+  <project timestamp="1628255141185" name="All files">
+    <metrics statements="45" coveredstatements="40" conditionals="17" coveredconditionals="16" methods="24" coveredmethods="20" elements="86" coveredelements="76" complexity="0" loc="45" ncloc="45" packages="1" files="7" classes="7"/>
+    <file name="App.jsx" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/App.jsx">
+      <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="3"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="9" type="stmt"/>
+      <line num="17" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="6" type="stmt"/>
+      <line num="20" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+    </file>
+    <file name="ErrorMessage.jsx" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/ErrorMessage.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="LoadingSpinner.jsx" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/LoadingSpinner.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="14" type="stmt"/>
+    </file>
+    <file name="PokemonAbility.jsx" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/PokemonAbility.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="8" type="stmt"/>
+    </file>
+    <file name="PokemonList.jsx" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/PokemonList.jsx">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+    </file>
+    <file name="PokemonPage.jsx" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/PokemonPage.jsx">
+      <metrics statements="14" coveredstatements="13" conditionals="12" coveredconditionals="11" methods="7" coveredmethods="7"/>
+      <line num="8" count="16" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="12" type="stmt"/>
+      <line num="12" count="12" type="stmt"/>
+      <line num="14" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="17" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="22" count="8" type="stmt"/>
+      <line num="26" count="8" type="stmt"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="45" count="8" type="stmt"/>
+    </file>
+    <file name="useApi.js" path="/Users/sofia.altusar-anderson/Desktop/full-stack-open-pokedex/src/useApi.js">
+      <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <line num="4" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="5" count="21" type="stmt"/>
+      <line num="6" count="21" type="stmt"/>
+      <line num="7" count="21" type="stmt"/>
+      <line num="8" count="21" type="stmt"/>
+      <line num="9" count="7" type="stmt"/>
+      <line num="10" count="7" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="17" count="21" type="stmt"/>
+    </file>
+  </project>
+</coverage>
